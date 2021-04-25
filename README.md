@@ -6,7 +6,12 @@
 - 📫 How to reach me: abijotgupta1999@gmail.com
 
 
-![Abijot Gupta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abijotgupta&show_icons=true&include_all_commits=true)
+
+# :zap: Github Stats
+
+![Abijot Gupta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abijotgupta&show_icons=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abijotgupta&layout=compact)
 <!---
 abijotgupta/abijotgupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
