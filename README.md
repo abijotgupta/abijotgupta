@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I’m @abijotgupta, final year student pursuing B.Tech in Computer Science 🎓 from IKG Punjab Technical University 🏛.
+- I’m @abijotgupta, final year student pursuing B.Tech in Computer Science 🎓 from IKG Punjab Technical University, Kapurthala 🏛.
 - 👀 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.
 - 🌱 I’m currently learning Full Stack Development.
 - 💞️ I love to explore new technologies and leverage them to solve real-life problems ✨.
