@@ -7,7 +7,7 @@
 
 
 
-# :zap: Github Stats
+# :zap: GitHub Stats
 
 ![Abijot Gupta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abijotgupta&show_icons=true&count_private=true)
 
