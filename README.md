@@ -5,8 +5,6 @@
 - 💞️ I love to explore new technologies and leverage them to solve real-life problems ✨.
 - 📫 How to reach me: 
 [![LinkedIn](https://img.shields.io/badge/-Abijot_Gupta-2867B2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abijot-gupta/)
-[![Gmail](https://img.shields.io/badge/-Abijot_Gupta-DB4437?style=flat&logo=Gmail&logoColor=white)](mailto:abijotgupta1999@gmail.com)
-[![Instagram](https://img.shields.io/badge/-abijot__gupta-833ab4?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/abijot_gupta/)
 
 
 # :zap: GitHub Stats
