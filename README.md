@@ -25,8 +25,6 @@
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
 <br/><br>
-  
-  
 
 ![Abijot Gupta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abijotgupta&show_icons=true&count_private=true)
 
