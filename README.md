@@ -1,7 +1,7 @@
 ### Hi there 👋
 - I’m @abijotgupta, B.Tech Graduate in CSE 🎓 from IKG Punjab Technical University, Kapurthala 🏛.
 - 👀 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.
-- 🌱 I’m currently learning Full Stack Development.
+- 🌱 I’m Full Stack Developer.
 - 💞️ I love to explore new technologies and leverage them to solve real-life problems ✨.
 - 📫 How to reach me: 
 [![LinkedIn](https://img.shields.io/badge/-Abijot_Gupta-2867B2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abijot-gupta/)
