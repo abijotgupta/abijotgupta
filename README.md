@@ -13,7 +13,7 @@ I'm a 👨‍💻 **Software Engineer** with 3+ years of experience in fintech. 
 - **Event Streaming**: Kafka, RabbitMQ
 - **Caching**: Redis
 - **Cloud**: AWS
-- **Version Control**: Git, GitHub, GitLab
+- **Version Control**: Git, GitHub
 - **Programming Languages**: JavaScript, TypeScript, Java, Python
 - **Others**: Redux, Webpack, NPM, Docker
 
